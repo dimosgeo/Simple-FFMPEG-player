@@ -8,3 +8,7 @@ Open it
 
 !If you have subtitles in the form of .srt it will be converted to .ass. (The default subtitles file is .ass)
 !If you have subtitles it must be in Greek language because of the encoding form (ISO-8859-7)
+
+Please you also need:
+1)ffmpeg
+2)ffplay
