@@ -11,4 +11,5 @@ Open it<br/>
 
 Please you also need:<br/>
 1)ffmpeg<br/>
-2)ffplay
+2)ffplay<br/>
+https://ffmpeg.org/download.html
