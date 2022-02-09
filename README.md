@@ -1,4 +1,4 @@
-# Simple-FFMPEG-player<br/>
+# Simple-FFMPEG-video-player<br/>
 Python script for viewing movies with or without subtitles (only .ass,.srt and only greek see below) using ffmpeg and ffplay<br/>
 !Installation NOT required!<br/>
 
